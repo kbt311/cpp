@@ -11,7 +11,7 @@ int main() {
 	}
 	//bubblesort(num, n);
 	//quicksort(num, 0, n - 1);
-
+	//mergesort(num, 0, n - 1);
 	for (int i = 0;i < n;i++) {
 		cout << num[i] << " ";
 	}
