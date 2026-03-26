@@ -1,5 +1,6 @@
 #include "sort.h"
 
+//快速排序
 void quicksort(int* num, int left, int right) {
 	if (left >= right) return;
 	int i = left;
