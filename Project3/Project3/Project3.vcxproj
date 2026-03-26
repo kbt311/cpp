@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="bibubble.cpp" />
     <ClCompile Include="bubblesort.cpp" />
     <ClCompile Include="insertsort.cpp" />
     <ClCompile Include="main.cpp" />

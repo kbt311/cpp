@@ -1,5 +1,6 @@
 #include "sort.h"
 
+//冒泡排序
 void bubblesort(int* num, int n) {
 	for (int i = 0;i < n - 1;i++) {
 		bool sort = false;

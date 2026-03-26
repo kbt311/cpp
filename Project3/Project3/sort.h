@@ -7,3 +7,4 @@ void quicksort(int* num, int left, int right);
 void mergesort(int* num, int left,int right);
 void merge(int* num, int left, int mid, int right);
 void insertsort(int* num, int n);
+void bibubblesort(int* num, int n);

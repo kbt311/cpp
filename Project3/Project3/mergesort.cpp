@@ -1,5 +1,6 @@
 #include "sort.h"
 
+//归并排序
 void mergesort(int* num, int left, int right) {
 	if (left < right) {
 		int mid = left + (right - left) / 2;

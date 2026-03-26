@@ -1,5 +1,6 @@
 #include "sort.h"
 
+//直接插入排序
 void insertsort(int* num, int n) {
 	for (int i = 1;i < n;i++) {
 		if (num[i] < num[i - 1]) {
