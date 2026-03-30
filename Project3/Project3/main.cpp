@@ -14,6 +14,7 @@ int main() {
 	//mergesort(num, 0, n - 1);
 	//insertsort(num, n);
 	//bibubblesort(num, n);
+	//selectsort(num, n);
 	for (int i = 0;i < n;i++) {
 		cout << num[i] << " ";
 	}

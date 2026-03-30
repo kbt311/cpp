@@ -133,6 +133,7 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="mergesort.cpp" />
     <ClCompile Include="quicksort.cpp" />
+    <ClCompile Include="selectsort.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="sort.h" />
